@@ -81,21 +81,19 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo ciências da computação na A
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EduPereiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereiraDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereiraDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-
+</div>
