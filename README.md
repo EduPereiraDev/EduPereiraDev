@@ -82,7 +82,6 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo ciências da computação na A
 ### 📊 Estatísticas
 
 <p>
- />
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -99,4 +98,4 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo ciências da computação na A
   />
 
 </p>
-**
+
