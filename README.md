@@ -77,6 +77,8 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo ciências da computação na A
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
