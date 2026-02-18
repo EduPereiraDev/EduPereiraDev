@@ -1,8 +1,8 @@
 ## 🐈‍⬛ Edu Pereira
 
-**Software Engineer**
+**Full Stack Developer | AWS Certified Developer Associate**
 
-Me chamo Eduardo Pereira, tenho 20 anos, e estudo Ciências da Computação na Anhembi Morumbi. Sou uma pessoa organizada, com excelentes habilidades de comunicação e facilidade para interagir com diferentes pessoas. Adoto uma abordagem proativa e focada em soluções. Possuo experiência nas áreas financeira e administrativa, análise de performance e design.
+Me chamo Eduardo Pereira, tenho 20 anos, e estudo Ciências da Computação na Anhembi Morumbi. Sou desenvolvedor Full Stack com certificação AWS Developer Associate. Pessoa organizada, com excelentes habilidades de comunicação e abordagem proativa focada em soluções.
 
 ---
 
