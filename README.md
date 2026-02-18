@@ -8,10 +8,8 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo Ciências da Computação na A
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduPereiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereiraDev&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduPereiraDev&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+![EduPereiraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduPereiraDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereiraDev&layout=compact&theme=tokyonight)
 
 ---
 
@@ -22,7 +20,7 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo Ciências da Computação na A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
