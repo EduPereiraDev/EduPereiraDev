@@ -8,12 +8,10 @@ Me chamo Eduardo Pereira, tenho 20 anos, e estudo Ciências da Computação na A
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/EduPereiraDev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduPereiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-</a>
-<a href="https://github.com/EduPereiraDev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereiraDev&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduPereiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduPereiraDev&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduPereiraDev&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
