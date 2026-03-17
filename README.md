@@ -1,6 +1,6 @@
 ## 🐈‍⬛ Edu Pereira
 
-**Full Stack Developer | AWS Certified Developer Associate**
+**Full Stack Developer | Tech Lead
 
 Me chamo Eduardo Pereira, tenho 20 anos, e estudo Ciências da Computação na Anhembi Morumbi. Sou desenvolvedor Full Stack na Alest Consultoria e contribuo com meu desenvolvimento pra varias empresas no mercado.Sou uma pessoa organizada, com excelentes habilidades de comunicação e abordagem proativa focada em soluções.
 
