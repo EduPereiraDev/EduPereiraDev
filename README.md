@@ -71,11 +71,11 @@ Certificado AWS Security Specialty e AWS Developer Associate — construo soluç
 
 <div align="center">
   <a href="https://www.credly.com/badges/32b82b1c-79b5-4078-9eec-f1a16cabc0be/linked_in">
-    <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Security Specialty" width="150"/>
+    <img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Security Specialty" width="150"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/37cdb65e-9600-4dd4-a9b1-ab5a5dc38f67/linked_in">
-    <img src="https://images.credly.com/images/b9feab85-1a43-4f6d-99a5-7c1a640652ec/image.png" alt="AWS Developer Associate" width="150"/>
+    <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" width="150"/>
   </a>
 </div>
 
