@@ -8,16 +8,7 @@ Certificado AWS Security Specialty e AWS Developer Associate — construo soluç
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduPereiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduPereiraDev&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
-## 🛠️ Tecnologias
+## ️ Tecnologias
 
 ### Linguagens
 <div align="center">
