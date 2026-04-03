@@ -2,7 +2,7 @@
 
 **Full Stack Developer & Tech Lead** | AWS Certified
 
-Tenho 20 anos, estudo Ciências da Computação na Anhembi Morumbi e atuo como Desenvolvedor Full Stack & Tech Lead na Alest Consultoria, sendo ponto de contato técnico em grandes clientes e liderando projetos de alta complexidade.
+Tenho 21 anos, estudo Ciências da Computação na Anhembi Morumbi e atuo como Desenvolvedor Full Stack & Tech Lead na Alest Consultoria, sendo ponto de contato técnico em grandes clientes e liderando projetos de alta complexidade.
 
 Certificado AWS Security Specialty e AWS Developer Associate — construo soluções completas do frontend ao deploy em cloud, com integrações de IA e automações.
 
